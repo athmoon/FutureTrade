@@ -1,0 +1,1 @@
+@echo Manifest resource last updated at %TIME% on %DATE% > .\Debug\mt.dep
